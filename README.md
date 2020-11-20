@@ -1,2 +1,0 @@
-# GODZILLA
-GODZILLA - CS 338 Project UI
